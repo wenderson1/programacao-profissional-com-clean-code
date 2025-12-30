@@ -1,0 +1,5 @@
+## Práticas de Exceções
+O tratamento de erros é uma parte crucial no desenvolvimento de software, pois permite que um programa lide com situações inesperadas de maneira controlada, mantendo a robustez e a confiabilidade do sistema.
+O Objetivo principal é garantir que, ao ocorrer um erro, o programa possa continuar executando ou, pelo menos, falhar de maneira graciosa, fornecendo informações úteis para a correção do problema.
+
+## Boas práticas com Null
