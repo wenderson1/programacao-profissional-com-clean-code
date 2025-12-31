@@ -3,3 +3,8 @@ O tratamento de erros é uma parte crucial no desenvolvimento de software, pois 
 O Objetivo principal é garantir que, ao ocorrer um erro, o programa possa continuar executando ou, pelo menos, falhar de maneira graciosa, fornecendo informações úteis para a correção do problema.
 
 ## Boas práticas com Null
+#### Não Retorne Null
+Evite retornar null em métodos. Em vez disso, utilize objetos especiais, coleções vazias ou outras técnicas para representar ausência de valor.
+
+#### Não passe Null
+Não utilize null como argumento ao chamar métodos. Utilize alternativas como objetos padrão ou valores especiais para evitar a necessidade de lidar com null no código.
